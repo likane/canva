@@ -17,6 +17,7 @@ nav li{
 }
 .navbar {
 	background: rgba(100,100,100, 0);
+	margin-bottom: 30px;
 	
 }
 
@@ -26,4 +27,31 @@ nav li{
 
 .navbar-collapse {
 	color:#fff;
+}
+
+
+.workSection {
+	padding:20px 30px 20px 30px;
+
+}
+
+// .card {
+// 	margin-top: 20px;
+// }
+
+.contact {
+	background: linear-gradient(to bottom right, #28b9c1, #4388cb);	
+}
+.work {
+	background: linear-gradient(to bottom right, #0af202, #02b03f);	
+}
+.skills {
+	background: linear-gradient(to bottom right, #ff6701, #ff170f);	
+}
+
+.decSection {
+	background: linear-gradient(to bottom right, #28b9c1, #4388cb);
+	min-height: 175px;
+	width: 145%;
+	margin-left: -115px;
 }
