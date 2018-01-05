@@ -1,0 +1,29 @@
+.jumbotron {
+	background: linear-gradient(to bottom right, #28b9c1, #4388cb);
+	min-height: 600px;
+}
+
+.jumbotron h1, p {
+	color: #fff;
+}
+
+.jumbotron h1 {
+	margin-top: 15%;
+	font-size: 6em;
+}
+
+nav li{
+	text-align: center;
+}
+.navbar {
+	background: rgba(100,100,100, 0);
+	
+}
+
+.nav-link {
+	color: #fff;
+}
+
+.navbar-collapse {
+	color:#fff;
+}
