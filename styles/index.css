@@ -29,6 +29,22 @@ nav li{
 	color:#fff;
 }
 
+.fa:hover{
+	color:#59b6f9;
+}
+
+.socialFooter {
+	list-style: none;
+	display: inline-flex;
+	margin-right: 20px;
+	margin-bottom: 0px;
+}
+.fa {
+	color: white;
+	margin: 0px 15px 0px 15px
+
+}
+
 
 .workSection {
 	padding:20px 30px 20px 30px;
@@ -36,9 +52,9 @@ nav li{
 
 }
 
-// .card {
-// 	margin-top: 20px;
-// }
+.card {
+	border: none;
+}
 
 .contact {
 	background: linear-gradient(to bottom right, #858483, #575757);	
@@ -52,7 +68,7 @@ nav li{
 
 .decSection {
 	background: linear-gradient(to bottom right, #28b9c1, #4388cb);
-	min-height: 175px;
+	min-height: 300px;
 	width: 145%;
 	margin-left: -115px;
 }
