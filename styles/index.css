@@ -54,6 +54,7 @@ nav li{
 
 .card {
 	border: none;
+	margin-top: 17%;
 }
 
 .contact {
@@ -66,15 +67,21 @@ nav li{
 	background: linear-gradient(to bottom right, #ff6701, #ff170f);	
 }
 
-.decSection {
-	background: linear-gradient(to bottom right, #28b9c1, #4388cb);
+.decSectionOne {
+	background: linear-gradient(to bottom right, #548bde, #3453cf);
 	min-height: 300px;
 	width: 145%;
-	margin-left: -115px;
+	margin-left: -120px;
 }
 
+.decSectionTwo {
+	background: linear-gradient(to bottom right, #6c65f0, #0d0da8);
+	min-height: 300px;
+	width: 145%;
+	margin-left: -120px;
+}
 .endSection {
-	background: linear-gradient(to bottom right, #858483, #575757);
+	background: linear-gradient(to bottom right, #80807f, #545454);
 	min-height: 175px;
 	width: 145%;
 	margin-left: -115px;
